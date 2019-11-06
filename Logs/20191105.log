@@ -1,0 +1,54 @@
+0	00:20:02.449	MACD主图均线 EURUSD,M30: uninit reason 3
+0	00:20:02.449	MACDWithX EURUSD,M30: uninit reason 3
+0	00:20:02.449	MACD主图均线 EURUSD,M15: initialized
+0	00:20:02.450	MACDWithX EURUSD,M15: initialized
+0	00:20:06.288	MACD主图均线 EURUSD,M15: uninit reason 3
+0	00:20:06.288	MACDWithX EURUSD,M15: uninit reason 3
+0	00:20:06.290	MACD主图均线 EURUSD,M5: initialized
+0	00:20:06.290	MACDWithX EURUSD,M5: initialized
+0	00:20:11.760	MACD主图均线 EURUSD,M5: uninit reason 3
+0	00:20:11.761	MACDWithX EURUSD,M5: uninit reason 3
+0	00:20:11.761	MACD主图均线 EURUSD,M15: initialized
+0	00:20:11.762	MACDWithX EURUSD,M15: initialized
+0	00:21:39.197	MACD主图均线 EURUSD,M15: uninit reason 9
+0	00:21:39.197	MACDWithX EURUSD,M15: uninit reason 9
+0	00:21:39.602	Custom indicator MACD主图均线 EURUSD,M15: removed
+0	00:21:39.607	Custom indicator MACDWithX EURUSD,M15: removed
+0	08:37:03.119	Custom indicator MACD主图均线 EURUSD,M15: loaded successfully
+0	08:37:03.136	Custom indicator MACDWithX EURUSD,M15: loaded successfully
+0	08:37:03.155	MACD主图均线 EURUSD,M15: initialized
+0	08:37:03.175	MACDWithX EURUSD,M15: initialized
+0	09:32:55.563	MACD主图均线 EURUSD,M15: uninit reason 3
+0	09:32:55.563	MACDWithX EURUSD,M15: uninit reason 3
+0	09:32:55.565	MACD主图均线 EURUSD,M1: initialized
+0	09:32:55.565	MACDWithX EURUSD,M1: initialized
+0	09:33:13.523	MACD主图均线 EURUSD,M1: uninit reason 3
+0	09:33:13.523	MACDWithX EURUSD,M1: uninit reason 3
+0	09:33:13.524	MACD主图均线 EURUSD,M15: initialized
+0	09:33:13.524	MACDWithX EURUSD,M15: initialized
+0	21:39:17.366	MACD主图均线 EURUSD,M15: uninit reason 4
+0	21:39:17.366	MACDWithX EURUSD,M15: uninit reason 4
+0	21:39:17.384	Custom indicator MACD主图均线 EURUSD,M15: removed
+0	21:39:17.387	Custom indicator MACDWithX EURUSD,M15: removed
+0	21:39:34.944	Custom indicator MACD主图均线 EURUSD,H1: loaded successfully
+0	21:39:36.785	MACD主图均线 EURUSD,H1: initialized
+0	21:39:38.174	Custom indicator MACDWithX EURUSD,H1: loaded successfully
+0	21:39:39.611	MACDWithX EURUSD,H1: initialized
+0	21:39:55.725	MACD主图均线 EURUSD,H1: uninit reason 3
+0	21:39:55.725	MACDWithX EURUSD,H1: uninit reason 3
+0	21:39:55.727	MACD主图均线 EURUSD,M30: initialized
+0	21:39:55.727	MACDWithX EURUSD,M30: initialized
+0	21:40:08.822	Expert 反马丁 EURUSD,M30: loaded successfully
+0	21:40:40.548	反马丁 EURUSD,M30 inputs: FastMAPeriod=12; SlowMAPeriod=26; SignalMAPeriod=9; Lots=0.01; Max=10; Pip=0.00001; 
+0	21:40:40.605	反马丁 EURUSD,M30: initialized
+0	21:41:06.048	反马丁 EURUSD,M30: uninit reason 2
+0	21:41:06.048	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	21:41:06.054	Expert 反马丁 EURUSD,M30: removed
+0	21:41:06.078	Expert 反马丁 EURUSD,M30: loaded successfully
+0	21:41:06.111	反马丁 EURUSD,M30: initialized
+0	21:41:19.351	Automated trading enabled
+0	21:41:41.549	Automated trading disabled
+0	21:41:42.494	Automated trading enabled
+0	21:43:43.686	Automated trading disabled
+3	21:43:43.686	Automated trading disabled because the account has been changed
+0	21:45:17.989	Automated trading enabled

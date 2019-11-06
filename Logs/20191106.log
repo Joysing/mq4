@@ -1,0 +1,181 @@
+0	08:45:08.598	Automated trading disabled
+3	08:45:08.598	Automated trading disabled because the account has been changed
+0	12:28:09.163	Automated trading enabled
+0	19:13:32.748	Automated trading disabled
+3	19:13:32.748	Automated trading disabled because the account has been changed
+0	20:24:42.420	Compiling 'Price_Channel'
+0	20:46:26.304	Custom indicator Price_Channel EURUSD,M30: loaded successfully
+0	20:46:27.730	Price_Channel EURUSD,M30: initialized
+0	20:46:47.755	Price_Channel EURUSD,M30: uninit reason 1
+0	20:46:47.757	Custom indicator Price_Channel EURUSD,M30: removed
+0	21:09:48.273	反马丁 EURUSD,M30: uninit reason 2
+0	21:09:48.273	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	21:09:48.319	Expert 反马丁 EURUSD,M30: removed
+0	21:09:48.349	Expert 反马丁 EURUSD,M30: loaded successfully
+0	21:09:48.399	反马丁 EURUSD,M30: initialized
+0	21:13:40.111	反马丁 EURUSD,M30: uninit reason 2
+0	21:13:40.111	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	21:13:40.115	Expert 反马丁 EURUSD,M30: removed
+0	21:13:40.134	Expert 反马丁 EURUSD,M30: loaded successfully
+0	21:13:40.171	反马丁 EURUSD,M30: initialized
+0	21:16:13.511	反马丁 EURUSD,M30: uninit reason 2
+0	21:16:13.511	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	21:16:13.515	Expert 反马丁 EURUSD,M30: removed
+0	21:16:13.533	Expert 反马丁 EURUSD,M30: loaded successfully
+0	21:16:13.565	反马丁 EURUSD,M30: initialized
+0	21:21:41.474	Compiling 'Price_Channel'
+0	21:21:51.636	Custom indicator KDJ EURUSD,M30: loaded successfully
+0	21:22:02.433	KDJ EURUSD,M30: initialized
+0	21:28:35.089	反马丁 EURUSD,M30: uninit reason 2
+0	21:28:35.089	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	21:28:35.092	Expert 反马丁 EURUSD,M30: removed
+0	21:28:35.117	Expert 反马丁 EURUSD,M30: loaded successfully
+0	21:28:35.151	反马丁 EURUSD,M30: initialized
+0	21:31:00.943	反马丁 EURUSD,M30: uninit reason 2
+0	21:31:00.943	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	21:31:00.950	Expert 反马丁 EURUSD,M30: removed
+0	21:31:00.972	Expert 反马丁 EURUSD,M30: loaded successfully
+0	21:31:01.007	反马丁 EURUSD,M30: initialized
+0	21:31:28.318	反马丁 EURUSD,M30: uninit reason 2
+0	21:31:28.318	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	21:31:28.322	Expert 反马丁 EURUSD,M30: removed
+0	21:31:28.340	Expert 反马丁 EURUSD,M30: loaded successfully
+0	21:31:28.366	反马丁 EURUSD,M30: initialized
+0	21:59:17.059	反马丁 EURUSD,M30: uninit reason 2
+0	21:59:17.059	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	21:59:17.062	Expert 反马丁 EURUSD,M30: removed
+0	21:59:17.079	Expert 反马丁 EURUSD,M30: loaded successfully
+0	21:59:17.106	反马丁 EURUSD,M30: initialized
+0	22:00:01.525	反马丁 EURUSD,M30: uninit reason 2
+0	22:00:01.525	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	22:00:01.531	Expert 反马丁 EURUSD,M30: removed
+0	22:00:01.549	Expert 反马丁 EURUSD,M30: loaded successfully
+0	22:00:01.579	反马丁 EURUSD,M30: initialized
+0	22:05:42.795	反马丁 EURUSD,M30: uninit reason 2
+0	22:05:42.795	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	22:05:42.798	Expert 反马丁 EURUSD,M30: removed
+0	22:05:42.815	Expert 反马丁 EURUSD,M30: loaded successfully
+0	22:05:42.844	反马丁 EURUSD,M30: initialized
+0	22:08:31.156	反马丁 EURUSD,M30: uninit reason 2
+0	22:08:31.156	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	22:08:31.159	Expert 反马丁 EURUSD,M30: removed
+0	22:08:31.177	Expert 反马丁 EURUSD,M30: loaded successfully
+0	22:08:31.205	反马丁 EURUSD,M30: initialized
+0	22:15:21.827	反马丁 EURUSD,M30: uninit reason 2
+0	22:15:21.827	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	22:15:21.830	Expert 反马丁 EURUSD,M30: removed
+0	22:15:21.846	Expert 反马丁 EURUSD,M30: loaded successfully
+0	22:15:21.874	反马丁 EURUSD,M30: initialized
+0	22:15:32.634	反马丁 EURUSD,M30: uninit reason 2
+0	22:15:32.634	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	22:15:32.637	Expert 反马丁 EURUSD,M30: removed
+0	22:15:32.655	Expert 反马丁 EURUSD,M30: loaded successfully
+0	22:15:32.688	反马丁 EURUSD,M30: initialized
+0	22:16:55.473	反马丁 EURUSD,M30: uninit reason 2
+0	22:16:55.473	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	22:16:55.476	Expert 反马丁 EURUSD,M30: removed
+0	22:16:55.495	Expert 反马丁 EURUSD,M30: loaded successfully
+0	22:16:55.527	反马丁 EURUSD,M30: initialized
+0	22:18:09.603	反马丁 EURUSD,M30: uninit reason 2
+0	22:18:09.603	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	22:18:09.606	Expert 反马丁 EURUSD,M30: removed
+0	22:18:09.624	Expert 反马丁 EURUSD,M30: loaded successfully
+0	22:18:09.658	反马丁 EURUSD,M30: initialized
+0	22:22:00.147	反马丁 EURUSD,M30: uninit reason 2
+0	22:22:00.147	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	22:22:00.150	Expert 反马丁 EURUSD,M30: removed
+0	22:22:00.167	Expert 反马丁 EURUSD,M30: loaded successfully
+0	22:22:00.197	反马丁 EURUSD,M30: initialized
+0	22:23:44.190	反马丁 EURUSD,M30: uninit reason 2
+0	22:23:44.190	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	22:23:44.193	Expert 反马丁 EURUSD,M30: removed
+0	22:23:44.215	Expert 反马丁 EURUSD,M30: loaded successfully
+0	22:23:44.243	反马丁 EURUSD,M30: initialized
+0	22:28:37.474	反马丁 EURUSD,M30: uninit reason 2
+0	22:28:37.474	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	22:28:37.477	Expert 反马丁 EURUSD,M30: removed
+0	22:28:37.493	Expert 反马丁 EURUSD,M30: loaded successfully
+0	22:28:37.520	反马丁 EURUSD,M30: initialized
+0	22:32:28.711	反马丁 EURUSD,M30: uninit reason 2
+0	22:32:28.711	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	22:32:28.718	Expert 反马丁 EURUSD,M30: removed
+0	22:32:28.738	Expert 反马丁 EURUSD,M30: loaded successfully
+0	22:32:28.794	反马丁 EURUSD,M30: initialized
+0	23:22:26.879	Compiling 'AutoKdj'
+0	23:22:29.142	Compiling 'KDJ'
+0	23:22:31.841	MACDWithX EURUSD,M30: uninit reason 2
+0	23:22:31.859	Custom indicator MACDWithX EURUSD,M30: removed
+0	23:22:31.875	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	23:22:31.906	MACDWithX EURUSD,M30: initialized
+0	23:22:31.932	KDJ EURUSD,M30: uninit reason 2
+0	23:22:31.934	Custom indicator KDJ EURUSD,M30: removed
+0	23:22:31.949	Custom indicator KDJ EURUSD,M30: loaded successfully
+0	23:22:31.967	KDJ EURUSD,M30: initialized
+0	23:23:01.344	MACDWithX EURUSD,M30: uninit reason 5
+0	23:23:01.366	MACDWithX EURUSD,M30: initialized
+0	23:25:39.857	反马丁 EURUSD,M30: uninit reason 3
+0	23:25:39.857	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	23:25:39.859	MACD主图均线 EURUSD,M30: uninit reason 3
+0	23:25:39.869	MACDWithX EURUSD,M30: uninit reason 3
+0	23:25:39.869	KDJ EURUSD,M30: uninit reason 3
+0	23:25:39.885	MACD主图均线 EURUSD,M15: initialized
+0	23:25:39.885	MACDWithX EURUSD,M15: initialized
+0	23:25:39.886	KDJ EURUSD,M15: initialized
+0	23:25:41.689	MACD主图均线 EURUSD,M15: uninit reason 3
+0	23:25:41.690	MACDWithX EURUSD,M15: uninit reason 3
+0	23:25:41.690	KDJ EURUSD,M15: uninit reason 3
+0	23:25:41.690	MACD主图均线 EURUSD,M30: initialized
+0	23:25:41.691	MACDWithX EURUSD,M30: initialized
+0	23:25:41.691	KDJ EURUSD,M30: initialized
+0	23:25:41.727	反马丁 EURUSD,M30: initialized
+0	23:27:54.137	MACDWithX EURUSD,M30: uninit reason 2
+0	23:27:54.140	Custom indicator MACDWithX EURUSD,M30: removed
+0	23:27:54.157	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	23:27:54.176	MACDWithX EURUSD,M30: initialized
+0	23:28:09.210	MACDWithX EURUSD,M30: uninit reason 2
+0	23:28:09.212	Custom indicator MACDWithX EURUSD,M30: removed
+0	23:28:09.229	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	23:28:09.250	MACDWithX EURUSD,M30: initialized
+0	23:29:34.306	MACDWithX EURUSD,M30: uninit reason 2
+0	23:29:34.308	Custom indicator MACDWithX EURUSD,M30: removed
+0	23:29:34.326	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	23:29:34.346	MACDWithX EURUSD,M30: initialized
+0	23:31:27.574	MACDWithX EURUSD,M30: uninit reason 2
+0	23:31:27.577	Custom indicator MACDWithX EURUSD,M30: removed
+0	23:31:27.593	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	23:31:27.621	MACDWithX EURUSD,M30: initialized
+0	23:32:29.006	MACDWithX EURUSD,M30: uninit reason 2
+0	23:32:29.008	Custom indicator MACDWithX EURUSD,M30: removed
+0	23:32:29.025	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	23:32:29.046	MACDWithX EURUSD,M30: initialized
+0	23:35:35.865	反马丁 EURUSD,M30: uninit reason 3
+0	23:35:35.865	反马丁 EURUSD,M30: =====================================Hello World! deinit
+0	23:35:35.867	MACD主图均线 EURUSD,M30: uninit reason 3
+0	23:35:35.867	MACDWithX EURUSD,M30: uninit reason 3
+0	23:35:35.867	KDJ EURUSD,M30: uninit reason 3
+0	23:35:35.872	MACD主图均线 EURUSD,M15: initialized
+0	23:35:35.873	MACDWithX EURUSD,M15: initialized
+0	23:35:35.874	KDJ EURUSD,M15: initialized
+0	23:35:39.417	MACD主图均线 EURUSD,M15: uninit reason 3
+0	23:35:39.417	MACDWithX EURUSD,M15: uninit reason 3
+0	23:35:39.417	KDJ EURUSD,M15: uninit reason 3
+0	23:35:39.418	MACD主图均线 EURUSD,M30: initialized
+0	23:35:39.418	MACDWithX EURUSD,M30: initialized
+0	23:35:39.419	KDJ EURUSD,M30: initialized
+0	23:35:39.456	反马丁 EURUSD,M30: initialized
+0	23:43:33.774	KDJ EURUSD,M30: uninit reason 2
+0	23:43:33.777	Custom indicator KDJ EURUSD,M30: removed
+0	23:43:33.795	Custom indicator KDJ EURUSD,M30: loaded successfully
+0	23:43:33.818	KDJ EURUSD,M30: initialized
+0	23:47:09.205	KDJ EURUSD,M30: uninit reason 2
+0	23:47:09.208	Custom indicator KDJ EURUSD,M30: removed
+0	23:47:09.226	Custom indicator KDJ EURUSD,M30: loaded successfully
+0	23:47:09.251	KDJ EURUSD,M30: initialized
+0	23:51:36.308	KDJ EURUSD,M30: uninit reason 2
+0	23:51:36.311	Custom indicator KDJ EURUSD,M30: removed
+0	23:51:36.327	Custom indicator KDJ EURUSD,M30: loaded successfully
+0	23:51:36.353	KDJ EURUSD,M30: initialized
+0	23:54:59.600	KDJ EURUSD,M30: uninit reason 2
+0	23:54:59.603	Custom indicator KDJ EURUSD,M30: removed
+0	23:54:59.620	Custom indicator KDJ EURUSD,M30: loaded successfully
+0	23:54:59.642	KDJ EURUSD,M30: initialized

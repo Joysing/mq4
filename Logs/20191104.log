@@ -1,0 +1,124 @@
+0	00:59:36.514	MA60 EURUSD,M30: uninit reason 9
+0	00:59:37.352	Custom indicator MA60 EURUSD,M30: removed
+0	08:38:06.351	Custom indicator Downloads\MA60 EURUSD,M30: loaded successfully
+0	08:38:06.423	MA60 EURUSD,M30: initialized
+0	20:12:59.062	MA60 EURUSD,M30: uninit reason 2
+0	20:12:59.065	Custom indicator MA60 EURUSD,M30: removed
+0	20:12:59.083	Custom indicator Downloads\MA60 EURUSD,M30: loaded successfully
+0	20:12:59.105	MA60 EURUSD,M30: initialized
+0	20:13:43.953	MA60 EURUSD,M30: uninit reason 2
+0	20:13:43.955	Custom indicator MA60 EURUSD,M30: removed
+0	20:13:43.973	Custom indicator Downloads\MA60 EURUSD,M30: loaded successfully
+0	20:13:43.996	MA60 EURUSD,M30: initialized
+0	20:16:21.129	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:16:22.593	MACDWithX EURUSD,M30: initialized
+0	20:16:26.708	MA60 EURUSD,M30: uninit reason 1
+0	20:16:26.711	Custom indicator MA60 EURUSD,M30: removed
+0	20:16:47.637	MACDWithX EURUSD,M30: uninit reason 2
+0	20:16:47.640	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:16:47.656	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:16:47.676	MACDWithX EURUSD,M30: initialized
+0	20:17:01.515	Custom indicator MACD_Histogram EURUSD,M30: loaded successfully
+0	20:17:02.904	MACD_Histogram EURUSD,M30: initialized
+0	20:18:08.544	MACDWithX EURUSD,M30: uninit reason 2
+0	20:18:08.548	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:18:08.566	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:18:08.588	MACDWithX EURUSD,M30: initialized
+0	20:18:37.221	MACDWithX EURUSD,M30: uninit reason 2
+0	20:18:37.223	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:18:37.240	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:18:37.262	MACDWithX EURUSD,M30: initialized
+0	20:19:06.269	MACDWithX EURUSD,M30: uninit reason 2
+0	20:19:06.272	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:19:06.287	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:19:06.307	MACDWithX EURUSD,M30: initialized
+0	20:19:20.283	MACDWithX EURUSD,M30: uninit reason 1
+0	20:19:20.285	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:19:29.144	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:19:30.677	MACDWithX EURUSD,M30: initialized
+0	20:20:04.326	MACDWithX EURUSD,M30: uninit reason 2
+0	20:20:04.328	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:20:04.346	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:20:04.367	MACDWithX EURUSD,M30: initialized
+0	20:20:46.839	MACDWithX EURUSD,M30: uninit reason 2
+0	20:20:46.841	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:20:46.858	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:20:46.878	MACDWithX EURUSD,M30: initialized
+0	20:22:41.646	MACDWithX EURUSD,M30: uninit reason 2
+0	20:22:41.649	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:22:41.665	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:22:41.684	MACDWithX EURUSD,M30: initialized
+0	20:32:07.540	Custom indicator MACD EURUSD,M30: loaded successfully
+0	20:32:13.034	MACD EURUSD,M30: initialized
+0	20:32:16.067	MACD EURUSD,M30: uninit reason 1
+0	20:32:16.070	Custom indicator MACD EURUSD,M30: removed
+0	20:40:41.779	MACDWithX EURUSD,M30: uninit reason 2
+0	20:40:41.784	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:40:41.801	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:40:41.823	MACDWithX EURUSD,M30: initialized
+0	20:41:09.936	MACDWithX EURUSD,M30: uninit reason 2
+0	20:41:09.939	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:41:09.957	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:41:09.977	MACDWithX EURUSD,M30: initialized
+0	20:43:26.336	Custom indicator RSI EURUSD,M30: loaded successfully
+0	20:43:27.747	RSI EURUSD,M30: initialized
+0	20:43:31.721	RSI EURUSD,M30: uninit reason 1
+0	20:43:31.724	Custom indicator RSI EURUSD,M30: removed
+0	20:44:52.823	MACDWithX EURUSD,M30: uninit reason 2
+0	20:44:52.825	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:44:52.844	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:44:52.866	MACDWithX EURUSD,M30: initialized
+0	20:45:02.733	MACDWithX EURUSD,M30: uninit reason 2
+0	20:45:02.735	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:45:02.753	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:45:02.773	MACDWithX EURUSD,M30: initialized
+0	20:49:23.355	MACDWithX EURUSD,M30: uninit reason 2
+0	20:49:23.357	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:49:23.374	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:49:23.399	MACDWithX EURUSD,M30: initialized
+0	20:49:41.020	MACDWithX EURUSD,M30: uninit reason 2
+0	20:49:41.023	Custom indicator MACDWithX EURUSD,M30: removed
+0	20:49:41.041	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	20:49:41.065	MACDWithX EURUSD,M30: initialized
+0	22:32:43.266	MACD_Histogram EURUSD,M30: uninit reason 1
+0	22:32:43.270	Custom indicator MACD_Histogram EURUSD,M30: removed
+0	22:32:45.260	MACDWithX EURUSD,M30: uninit reason 1
+0	22:32:45.263	Custom indicator MACDWithX EURUSD,M30: removed
+0	22:32:57.641	Custom indicator MACD主图均线 EURUSD,Daily: loaded successfully
+0	22:33:01.287	MACD主图均线 EURUSD,Daily: initialized
+0	22:37:57.619	MACD主图均线 EURUSD,Daily: uninit reason 2
+0	22:37:57.622	Custom indicator MACD主图均线 EURUSD,Daily: removed
+0	22:37:57.640	Custom indicator MACD主图均线 EURUSD,Daily: loaded successfully
+0	22:37:57.661	MACD主图均线 EURUSD,Daily: initialized
+1	22:37:57.661	MACD主图均线 EURUSD,Daily: array out of range in 'MACD主图均线.mq4' (64,18)
+0	22:38:12.552	Custom indicator MACD主图均线 EURUSD,Daily: loaded successfully
+0	22:38:29.132	Custom indicator MACD主图均线 EURUSD,Daily: removed
+0	22:38:29.133	MACD主图均线 EURUSD,Daily: uninit reason 2
+0	22:38:29.136	Custom indicator MACD主图均线 EURUSD,Daily: removed
+0	22:38:29.154	Custom indicator MACD主图均线 EURUSD,Daily: loaded successfully
+0	22:38:29.178	MACD主图均线 EURUSD,Daily: initialized
+1	22:38:29.178	MACD主图均线 EURUSD,Daily: array out of range in 'MACD主图均线.mq4' (64,18)
+0	22:38:32.808	Custom indicator MACD主图均线 EURUSD,Daily: loaded successfully
+0	22:38:46.480	Custom indicator MACD主图均线 EURUSD,Daily: removed
+0	22:38:46.481	MACD主图均线 EURUSD,Daily: uninit reason 2
+0	22:38:46.483	Custom indicator MACD主图均线 EURUSD,Daily: removed
+0	22:38:46.501	Custom indicator MACD主图均线 EURUSD,Daily: loaded successfully
+0	22:38:46.518	MACD主图均线 EURUSD,Daily: initialized
+0	22:39:40.393	Custom indicator MACDWithX EURUSD,Daily: loaded successfully
+0	22:39:41.565	MACDWithX EURUSD,Daily: initialized
+0	22:44:16.447	MACD主图均线 EURUSD,Daily: uninit reason 3
+0	22:44:16.447	MACDWithX EURUSD,Daily: uninit reason 3
+0	22:44:16.448	MACD主图均线 EURUSD,M15: initialized
+0	22:44:16.448	MACDWithX EURUSD,M15: initialized
+0	22:44:17.815	MACD主图均线 EURUSD,M15: uninit reason 3
+0	22:44:17.815	MACDWithX EURUSD,M15: uninit reason 3
+0	22:44:17.815	MACD主图均线 EURUSD,M30: initialized
+0	22:44:17.815	MACDWithX EURUSD,M30: initialized
+0	23:17:46.591	MACDWithX EURUSD,M30: uninit reason 2
+0	23:17:46.593	Custom indicator MACDWithX EURUSD,M30: removed
+0	23:17:46.611	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	23:17:46.633	MACDWithX EURUSD,M30: initialized
+0	23:19:22.922	MACDWithX EURUSD,M30: uninit reason 2
+0	23:19:22.926	Custom indicator MACDWithX EURUSD,M30: removed
+0	23:19:22.943	Custom indicator MACDWithX EURUSD,M30: loaded successfully
+0	23:19:22.966	MACDWithX EURUSD,M30: initialized

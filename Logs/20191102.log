@@ -1,0 +1,194 @@
+0	00:05:03.886	让系统开始交易 EURUSD,M1: uninit reason 2
+0	00:05:03.887	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	00:05:03.890	Expert 让系统开始交易 EURUSD,M1: removed
+0	00:05:03.913	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	00:05:03.948	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3977
+0	00:05:03.948	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	00:05:03.948	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11522
+0	00:05:03.948	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	00:05:03.948	让系统开始交易 EURUSD,M1: initialized
+0	00:07:23.015	让系统开始交易 EURUSD,M1: uninit reason 2
+0	00:07:23.015	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	00:07:23.018	Expert 让系统开始交易 EURUSD,M1: removed
+0	00:07:23.038	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	00:07:23.072	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3977
+0	00:07:23.073	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	00:07:23.073	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11522
+0	00:07:23.073	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	00:07:23.073	让系统开始交易 EURUSD,M1: initialized
+0	00:09:28.675	让系统开始交易 EURUSD,M1: uninit reason 2
+0	00:09:28.675	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	00:09:28.681	Expert 让系统开始交易 EURUSD,M1: removed
+0	00:09:28.710	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	00:09:28.776	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3977
+0	00:09:28.776	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	00:09:28.776	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11522
+0	00:09:28.776	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	00:09:28.776	让系统开始交易 EURUSD,M1: initialized
+0	00:14:14.348	让系统开始交易 EURUSD,M1: uninit reason 2
+0	00:14:14.348	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	00:14:14.352	Expert 让系统开始交易 EURUSD,M1: removed
+0	00:14:14.373	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	00:14:14.404	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3977
+0	00:14:14.404	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	00:14:14.404	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11522
+0	00:14:14.404	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	00:14:14.404	让系统开始交易 EURUSD,M1: initialized
+0	00:21:41.591	让系统开始交易 EURUSD,M1: uninit reason 2
+0	00:21:41.591	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	00:21:41.594	Expert 让系统开始交易 EURUSD,M1: removed
+0	00:21:41.611	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	00:21:41.636	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3977
+0	00:21:41.636	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	00:21:41.636	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11522
+0	00:21:41.636	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	00:21:41.636	让系统开始交易 EURUSD,M1: initialized
+0	00:22:22.880	让系统开始交易 EURUSD,M1: uninit reason 2
+0	00:22:22.880	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	00:22:22.884	Expert 让系统开始交易 EURUSD,M1: removed
+0	00:22:22.900	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	00:22:22.924	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3977
+0	00:22:22.924	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	00:22:22.924	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11522
+0	00:22:22.924	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	00:22:22.924	让系统开始交易 EURUSD,M1: initialized
+0	00:37:48.804	让系统开始交易 EURUSD,M1: uninit reason 9
+0	00:37:48.804	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	00:37:49.220	Expert 让系统开始交易 EURUSD,M1: removed
+0	16:37:15.311	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:37:15.311	让系统开始交易 EURUSD,M1 inputs: MovingPeriod=12; MovingShift=6; Lots=0.01; Max=10; Pip=0.00001; H=1.155; 
+0	16:37:16.040	Expert 让系统开始交易 AUDUSD,H1: loaded successfully
+0	16:37:22.206	Expert 让系统开始交易 AUDUSD,H1: removed
+0	16:37:28.346	Compiling 'MACD Sample'
+0	16:37:28.347	Compiling 'Moving Average'
+0	16:37:30.906	Compiling 'Accelerator'
+0	16:37:30.908	Compiling 'Accumulation'
+0	16:37:30.910	Compiling 'Alligator'
+0	16:37:30.912	Compiling 'ATR'
+0	16:37:30.913	Compiling 'Awesome'
+0	16:37:30.915	Compiling 'Bands'
+0	16:37:30.916	Compiling 'Bears'
+0	16:37:30.917	Compiling 'Bulls'
+0	16:37:30.919	Compiling 'CCI'
+0	16:37:30.921	Compiling 'Custom Moving Averages'
+0	16:37:30.922	Compiling 'Heiken Ashi'
+0	16:37:30.924	Compiling 'Ichimoku'
+0	16:37:30.926	Compiling 'iExposure'
+0	16:37:30.928	Compiling 'MACD'
+0	16:37:30.929	Compiling 'Momentum'
+0	16:37:30.931	Compiling 'OsMA'
+0	16:37:30.933	Compiling 'Parabolic'
+0	16:37:30.934	Compiling 'RSI'
+0	16:37:30.936	Compiling 'Stochastic'
+0	16:37:30.938	Compiling 'ZigZag'
+0	16:37:30.941	Compiling 'SimplePanel'
+0	16:37:37.794	Compiling 'PeriodConverter'
+0	16:37:37.797	Compiling 'DLLSampleTester'
+0	16:37:37.801	Compiling 'PipeClient'
+0	16:37:37.803	Compiling 'PipeClientPure'
+0	16:37:41.025	Compiling 'stdlib'
+0	16:37:45.386	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:37:45.386	让系统开始交易 EURUSD,M1 inputs: MovingPeriod=12; MovingShift=6; Lots=0.01; Max=10; Pip=0.00001; H=1.155; 
+0	16:38:01.676	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3842
+0	16:38:01.676	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	16:38:01.676	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11657
+0	16:38:01.676	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	16:38:01.676	让系统开始交易 EURUSD,M1: initialized
+0	16:42:43.468	让系统开始交易 EURUSD,M1: uninit reason 2
+0	16:42:43.468	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	16:42:43.471	Expert 让系统开始交易 EURUSD,M1: removed
+0	16:42:43.489	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:42:43.512	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3842
+0	16:42:43.512	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	16:42:43.512	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11657
+0	16:42:43.512	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	16:42:43.512	让系统开始交易 EURUSD,M1: initialized
+0	16:44:43.390	让系统开始交易 EURUSD,M1: uninit reason 2
+0	16:44:43.390	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	16:44:43.397	Expert 让系统开始交易 EURUSD,M1: removed
+0	16:44:43.427	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:44:43.504	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3842
+0	16:44:43.504	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	16:44:43.504	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11657
+0	16:44:43.504	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	16:44:43.504	让系统开始交易 EURUSD,M1: initialized
+0	16:45:48.164	让系统开始交易 EURUSD,M1: uninit reason 2
+0	16:45:48.164	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	16:45:48.167	Expert 让系统开始交易 EURUSD,M1: removed
+0	16:45:48.186	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:45:48.212	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3842
+0	16:45:48.212	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	16:45:48.212	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11657
+0	16:45:48.212	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	16:45:48.212	让系统开始交易 EURUSD,M1: initialized
+0	16:46:38.493	让系统开始交易 EURUSD,M1: uninit reason 2
+0	16:46:38.493	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	16:46:38.497	Expert 让系统开始交易 EURUSD,M1: removed
+0	16:46:38.519	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:46:38.555	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3842
+0	16:46:38.555	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	16:46:38.555	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11657
+0	16:46:38.555	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	16:46:38.555	让系统开始交易 EURUSD,M1: initialized
+0	16:48:16.771	让系统开始交易 EURUSD,M1: uninit reason 2
+0	16:48:16.771	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	16:48:16.774	Expert 让系统开始交易 EURUSD,M1: removed
+0	16:48:16.791	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:48:16.817	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3842
+0	16:48:16.817	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	16:48:16.817	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11657
+0	16:48:16.817	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	16:48:16.817	让系统开始交易 EURUSD,M1: initialized
+0	16:48:54.098	让系统开始交易 EURUSD,M1: uninit reason 2
+0	16:48:54.098	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	16:48:54.101	Expert 让系统开始交易 EURUSD,M1: removed
+0	16:48:54.120	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:48:54.147	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3842
+0	16:48:54.147	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	16:48:54.147	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11657
+0	16:48:54.147	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	16:48:54.147	让系统开始交易 EURUSD,M1: initialized
+0	16:49:09.315	让系统开始交易 EURUSD,M1: uninit reason 2
+0	16:49:09.315	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	16:49:09.318	Expert 让系统开始交易 EURUSD,M1: removed
+0	16:49:09.336	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:49:09.364	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3842
+0	16:49:09.364	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	16:49:09.364	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11657
+0	16:49:09.364	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	16:49:09.364	让系统开始交易 EURUSD,M1: initialized
+0	16:50:38.476	让系统开始交易 EURUSD,M1: uninit reason 2
+0	16:50:38.476	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	16:50:38.479	Expert 让系统开始交易 EURUSD,M1: removed
+0	16:50:38.497	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:50:38.527	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3842
+0	16:50:38.527	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	16:50:38.527	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11657
+0	16:50:38.527	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	16:50:38.527	让系统开始交易 EURUSD,M1: initialized
+0	16:51:41.835	让系统开始交易 EURUSD,M1: uninit reason 2
+0	16:51:41.835	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	16:51:41.838	Expert 让系统开始交易 EURUSD,M1: removed
+0	16:51:41.859	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:51:41.887	让系统开始交易 EURUSD,M1: =====================================Hello World! OnInit cnt 3842
+0	16:51:41.887	让系统开始交易 EURUSD,M1: =====================================Hello World! H 1.155
+0	16:51:41.887	让系统开始交易 EURUSD,M1: =====================================Hello World! Ask 1.11657
+0	16:51:41.887	让系统开始交易 EURUSD,M1: =====================================Hello World! Pip 1e-05
+0	16:51:41.887	让系统开始交易 EURUSD,M1: initialized
+0	16:55:56.558	让系统开始交易 EURUSD,M1: uninit reason 2
+0	16:55:56.558	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	16:55:56.562	Expert 让系统开始交易 EURUSD,M1: removed
+0	16:55:56.581	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:55:56.614	让系统开始交易 EURUSD,M1: initialized
+0	16:56:55.597	让系统开始交易 EURUSD,M1: uninit reason 2
+0	16:56:55.597	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	16:56:55.600	Expert 让系统开始交易 EURUSD,M1: removed
+0	16:56:55.618	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:56:55.640	让系统开始交易 EURUSD,M1: initialized
+0	16:57:17.391	让系统开始交易 EURUSD,M1: uninit reason 2
+0	16:57:17.392	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
+0	16:57:17.395	Expert 让系统开始交易 EURUSD,M1: removed
+0	16:57:17.412	Expert 让系统开始交易 EURUSD,M1: loaded successfully
+0	16:57:17.433	让系统开始交易 EURUSD,M1: initialized
+0	20:46:46.028	让系统开始交易 EURUSD,M1: uninit reason 9
+0	20:46:46.028	让系统开始交易 EURUSD,M1: =====================================Hello World! deinit
